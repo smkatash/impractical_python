@@ -1,0 +1,5 @@
+R Refactor for a “good practice” metric violation
+C Convention for coding standard violation
+W Warning for stylistic problems or minor programming issues
+E Error for important programming issues (i.e., most probably a bug)
+F Fatal for errors that prevent further processing
